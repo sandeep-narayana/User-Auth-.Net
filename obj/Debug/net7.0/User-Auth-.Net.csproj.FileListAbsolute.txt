@@ -31,3 +31,10 @@
 /Users/nspiraappcbd/Documents/GitHub/User-Auth-.Net/obj/Debug/net7.0/User-Auth-.Net.pdb
 /Users/nspiraappcbd/Documents/GitHub/User-Auth-.Net/obj/Debug/net7.0/User-Auth-.Net.genruntimeconfig.cache
 /Users/nspiraappcbd/Documents/GitHub/User-Auth-.Net/obj/Debug/net7.0/ref/User-Auth-.Net.dll
+/Users/nspiraappcbd/Documents/GitHub/User-Auth-.Net/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/nspiraappcbd/Documents/GitHub/User-Auth-.Net/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nspiraappcbd/Documents/GitHub/User-Auth-.Net/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/nspiraappcbd/Documents/GitHub/User-Auth-.Net/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/nspiraappcbd/Documents/GitHub/User-Auth-.Net/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nspiraappcbd/Documents/GitHub/User-Auth-.Net/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nspiraappcbd/Documents/GitHub/User-Auth-.Net/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
