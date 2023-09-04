@@ -16,6 +16,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// step 1 Enable authentication by adding 
+app.UseAuthentication();
+
 app.UseAuthorization();
 
 app.MapControllers();
